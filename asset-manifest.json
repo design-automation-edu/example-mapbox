@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/example-mapbox/static/css/main.1c4d460c.css",
+    "main.js": "/example-mapbox/static/js/main.79e35f93.js",
+    "index.html": "/example-mapbox/index.html",
+    "main.1c4d460c.css.map": "/example-mapbox/static/css/main.1c4d460c.css.map",
+    "main.79e35f93.js.map": "/example-mapbox/static/js/main.79e35f93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c4d460c.css",
+    "static/js/main.79e35f93.js"
+  ]
+}
