@@ -10,6 +10,7 @@ export function Sliders() {
     return (
       <div>
         <p>Left menu</p>
+        <p>v 0.1</p>
         <p>{data}</p>
       </div>
     );
